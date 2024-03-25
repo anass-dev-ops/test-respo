@@ -1,2 +1,3 @@
 /www/*
 !/www/node_modules
+/.vs
